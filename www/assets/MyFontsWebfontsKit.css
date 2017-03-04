@@ -1,0 +1,40 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3354026, 2017-03-04T01:06:35-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: TransatLight by Typetanic Fonts
+ * URL: http://www.myfonts.com/fonts/typetanic-fonts/transat/light/
+ * 
+ * Webfont: TransatStandardOblique by Typetanic Fonts
+ * URL: http://www.myfonts.com/fonts/typetanic-fonts/transat/standard-oblique/
+ * 
+ * Webfont: TransatStandard by Typetanic Fonts
+ * URL: http://www.myfonts.com/fonts/typetanic-fonts/transat/standard/
+ * 
+ * 
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=3354026
+ * Licensed pageviews: 20,000
+ * Webfonts copyright: Copyright (c) 2011-2013 by Greg Shutters &amp; Typetanic Fonts. All rights reserved.
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/332daa");
+
+  
+@font-face {font-family: 'TransatLight';src: url('webfonts/332DAA_0_0.eot');src: url('webfonts/332DAA_0_0.eot?#iefix') format('embedded-opentype'),url('webfonts/332DAA_0_0.woff2') format('woff2'),url('webfonts/332DAA_0_0.woff') format('woff'),url('webfonts/332DAA_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TransatStandardOblique';src: url('webfonts/332DAA_1_0.eot');src: url('webfonts/332DAA_1_0.eot?#iefix') format('embedded-opentype'),url('webfonts/332DAA_1_0.woff2') format('woff2'),url('webfonts/332DAA_1_0.woff') format('woff'),url('webfonts/332DAA_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TransatStandard';src: url('webfonts/332DAA_2_0.eot');src: url('webfonts/332DAA_2_0.eot?#iefix') format('embedded-opentype'),url('webfonts/332DAA_2_0.woff2') format('woff2'),url('webfonts/332DAA_2_0.woff') format('woff'),url('webfonts/332DAA_2_0.ttf') format('truetype');}
+ 
