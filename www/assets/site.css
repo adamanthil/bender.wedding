@@ -136,6 +136,12 @@ h4 {
   color: #666;
 }
 
+.registry {
+  color: #444;
+  font-size: 1.4em;
+  padding: 7px 0;
+}
+
 @media (max-width: 1100px) {
 
   h1 {
