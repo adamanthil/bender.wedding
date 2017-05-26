@@ -163,6 +163,7 @@ h4 {
 
   .content.rsvp {
     padding-top: 0px;
+    min-height: 1000px;
   }
 
   .column-left {
